@@ -22,7 +22,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/MultiDevice\ App/images/freddysband.jpg);
+    background-image: url(/images/freddysband.jpg);
     background-size: cover;
 }
 
